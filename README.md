@@ -1,2 +1,7 @@
 # Taxi_Rides
-Data Engineering Pipleline following DataTalks.Club's Data Engineering Zoomcamp
+
+Following the Data Engineering Bootcamp by DataTalksClub.
+
+[Link to GitHub Repo of the course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
+Credits to the DataTalksClub team.
